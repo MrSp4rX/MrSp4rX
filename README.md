@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="https://www.instagram.com/mr.5p4rx/">
+<a href="https://www.instagram.com/mrsp4rx/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
