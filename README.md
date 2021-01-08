@@ -24,4 +24,4 @@
 
 
 #### - 🌐 Google, 🔭 Cyber Security, Harami Launda,
-#### - 💬 Connect? Here :point_right:<br><a href='https://wa.me/919519874704'>WhatsApp</a>
+#### - 💬 Connect? Here :point_right:<br><a href='https://wa.me/919519874704'>WhatsApp</a><a href='https://instagram.com/mrsp4rx/'>Instagram</a>
