@@ -2,16 +2,16 @@
   "1" : {
     "name" : "akshit",
     "status" : "allowed",
-    "device" : "00:e0:2d:9d:22:4c"
+    "device" : "00:5e:2c:ef:45:63"
   },
   "2" : {
     "name" : "try",
     "status" : "allowed",
-    "device" : "00:e0:2d:9d:22:4c"
+    "device" : "00:5e:2c:ef:45:63"
   },
   "3" : {
     "name" : "akshit and try bot webhook",
     "status" : "allowed",
-    "device" : "00:e0:2d:9d:22:4c"
+    "device" : "00:5e:2c:ef:45:63"
   }
 }
