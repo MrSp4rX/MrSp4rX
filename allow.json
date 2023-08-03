@@ -1,10 +1,12 @@
 {
   "1" : {
     "name" : "akshit",
-    "status" : "allowed"
+    "status" : "allowed",
+    "device" : "00:e0:2d:9d:22:4c"
   },
   "2" : {
     "name" : "try",
-    "status" : "suspended"
+    "status" : "suspended",
+    "device" : "00:e0:2d:9d:22:4c"
   }
 }
