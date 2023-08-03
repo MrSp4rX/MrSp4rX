@@ -8,5 +8,10 @@
     "name" : "try",
     "status" : "allowed",
     "device" : "00:e0:2d:9d:22:4c"
+  },
+  "3" : {
+    "name" : "akshit and try bot webhook",
+    "status" : "allowed",
+    "device" : "00:e0:2d:9d:22:4c"
   }
 }
