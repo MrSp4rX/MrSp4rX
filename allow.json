@@ -13,5 +13,15 @@
     "name" : "akshit and try bot webhook",
     "status" : "allowed",
     "device" : "00:5e:2c:ef:45:63"
+  },
+   "5" : {
+    "name" : "vikas call center bot",
+    "status" : "allowed",
+    "device" : "00:16:3e:80:5f:62"
+  },
+   "6" : {
+    "name" : "vikas bot webhook",
+    "status" : "allowed",
+    "device" : "00:16:3e:80:5f:62"
   }
 }
