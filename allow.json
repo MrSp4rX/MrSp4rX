@@ -2,17 +2,17 @@
   "1" : {
     "name" : "akshit",
     "status" : "allowed",
-    "device" : "00:5e:2c:ef:45:63"
+    "device" : "00:16:3e:80:5f:62"
   },
   "2" : {
     "name" : "try",
     "status" : "allowed",
-    "device" : "00:5e:2c:ef:45:63"
+    "device" : "00:16:3e:80:5f:62"
   },
   "3" : {
     "name" : "akshit and try bot webhook",
     "status" : "allowed",
-    "device" : "00:5e:2c:ef:45:63"
+    "device" : "00:16:3e:80:5f:62"
   },
    "5" : {
     "name" : "vikas call center bot",
