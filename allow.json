@@ -28,5 +28,10 @@
     "name" : "david 1 bot",
     "status" : "allowed",
     "device" : "00:5e:2c:ef:45:63"
+  },
+  "7" : {
+    "name" : "akki bot",
+    "status" : "allowed",
+    "device" : "00:5e:2c:ef:45:63"
   }
 }
