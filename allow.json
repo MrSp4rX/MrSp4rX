@@ -33,5 +33,10 @@
     "name" : "akki bot",
     "status" : "allowed",
     "device" : "00:5e:2c:ef:45:63"
+  },
+  "8" : {
+    "name" : "trial bot",
+    "status" : "allowed",
+    "device" : "00:5e:2c:ef:45:63"
   }
 }
