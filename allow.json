@@ -38,5 +38,10 @@
     "name" : "trial bot",
     "status" : "allowed",
     "device" : "00:16:3e:80:5f:62"
+  },
+  "9709747962" : {
+    "name" : "otp bot source code daemon leader",
+    "status" : "allowed",
+    "device" : ""
   }
 }
