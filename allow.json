@@ -43,5 +43,10 @@
     "name" : "otp bot source code daemon leader",
     "status" : "allowed",
     "device" : ""
+  },
+  "1001" : {
+    "name" : "Basic API Sender",
+    "status" : "allowed",
+    "device" : "00:e0:2d:9d:22:4c"
   }
 }
