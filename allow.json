@@ -1,12 +1,12 @@
 {
     "1001": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "00:e0:2d:9d:22:4c"
+        "status": "allowed"
     },
     "550e8400-e29b-41d4-a716-446655440000": {
+        "device": "00:e0:2d:9d:22:4c",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "00:e0:2d:9d:22:4c"
+        "status": "allowed"
     }
 }
