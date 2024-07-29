@@ -47,6 +47,6 @@
     "1001": {
         "name": "Basic API Sender",
         "status": "allowed",
-        "device": "0"
+        "device": "00:e0:2d:9d:22:4c"
     }
 }
