@@ -1,7 +1,7 @@
 {
     "1001": {
         "name": "Basic API Sender",
-        "status": "allwed",
+        "status": "allowed",
         "device": "0"
     }
 }
